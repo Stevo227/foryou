@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    padding: 350px;
+    
+}
+
+h1 a{
+    text-decoration: none;
+    color: white;
+}
+
+span{
+    color: red;
+}
